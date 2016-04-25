@@ -1,0 +1,54 @@
+
+.container{
+	width: 80%;
+	margin: 0 auto;
+	font-family: Bankgothic Lt Bt Light;
+
+}
+
+.top{
+	background-color: AB7092;
+	border-radius: 10px;
+
+}
+.top h1{
+	text-align: center;
+	color: white;
+	font-size: 60px;
+
+}
+.top h2{
+	color:F2E2F2;
+	padding-left: 1050px;
+}
+
+.info{
+	font-size: 28px;
+}
+.bold{
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.bot{
+	background-color: AB7092;
+	border-radius: 10px;
+	height: 100px;
+	text-align: center;
+	font-size: 20px;
+
+}
+
+.bot h1{
+	color: white;
+}
+a{
+	font-size: 34px;
+	text-decoration: none;
+	font-weight: bold;
+}
+a:hover{
+font-size: 37px;
+
+
+	}

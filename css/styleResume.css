@@ -1,0 +1,35 @@
+
+.container{
+	width: 80%;
+	margin: 0 auto;
+	font-family: Bankgothic Lt Bt Light;
+
+}
+
+.breaker{
+
+	background: gray;
+	text-align: right;
+	color: white;
+	height: 2%;
+	padding-right: 10px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+.eduLeft, .eduRight{
+	float: left;
+	height: 5%;
+}
+.eduLeft{
+	width: 29%;
+	background-color: AB7092;
+	color: white;
+	padding-left: 3px;
+}
+.eduRight{	
+	width: 70%;	
+}
+
+
+	
+
