@@ -7,7 +7,7 @@
 }
 
 .breaker{
-
+clear: both;
 	background: gray;
 	text-align: right;
 	color: white;
@@ -16,20 +16,49 @@
 	padding-top: 4px;
 	padding-bottom: 4px;
 }
-.eduLeft, .eduRight{
-	float: left;
-	height: 5%;
-}
-.eduLeft{
-	width: 29%;
-	background-color: AB7092;
-	color: white;
-	padding-left: 3px;
-}
-.eduRight{	
-	width: 70%;	
-}
 
+.left{
+	width: 30%;
+	background-color: AB7092;
 
 	
+}
 
+.right{
+	width: 70%;
+}
+
+.left, .right{
+	float: left;
+}
+
+.left p{
+	color: white;
+	padding-left: 10px;
+}
+.right p {
+	padding-left: 10px;
+}
+.l, .r{
+	float: left;
+}
+
+.skills{
+	background: AB7092;
+}
+
+.skillsLeft p{
+	margin: 10%;
+	}
+
+.exp p,li{
+	padding-left: 15px;
+}
+
+.expLeft{
+	padding-top: 18px;
+}
+.FL{
+	
+	font-size: 50px;
+}
